@@ -1,0 +1,38 @@
+.card{
+    margin: 3px;
+    box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+    transition: transform 0.3s ease-in-out;
+}
+.btn{
+    margin-left: 10px;
+}
+.dropdown2{
+    margin-left: 10px;
+}
+.dropdown1{
+    position:absolute;
+}
+#profile{
+    border: none;
+    background-color: white;
+    padding: 8px;
+    color: rgb(84, 84, 255);
+    border-radius: 5px 5px 5px 5px;
+}
+#profile:hover{
+    background-color: rgba(66, 113, 241, 0.925);
+    color: white;
+
+}
+#home{
+    border: none;
+    background-color: white;
+    padding: 8px;
+    color: rgb(71, 71, 235);
+    border-radius: 5px 5px 5px 5px;
+}
+#home:hover{
+    background-color:  rgba(66, 113, 241, 0.925);
+    color: white;
+}
+
